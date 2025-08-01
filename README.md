@@ -29,3 +29,4 @@ MLNG Operational Excellence Open Day
 ---
 
 Feel free to explore the code, try out the game, or connect with us to learn more!
+Link: https://etticx.github.io/BrickMasterMLNGNew/
